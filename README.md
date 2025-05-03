@@ -4,11 +4,15 @@ Projeto em linguagem C para gerenciamento de cadastro de alunos via terminal.
 
 ## 📋 Funcionalidades
 
-- Cadastrar alunos com nome, matrícula e curso
-- Listar todos os alunos cadastrados
-- Buscar aluno por matrícula
-- Remover aluno do sistema
-- Atualizar dados de um aluno
+- Cadastrar aluno: Adiciona um novo aluno com nome, matrícula e curso.
+
+- Cadastrar notas: Permite inserir as notas de cada aluno.
+
+- Exibir o aluno com a maior média: Calcula e mostra o aluno que possui a maior média entre todos.
+
+- Ordenar a lista de alunos pela média: Organiza a lista de alunos de forma decrescente, do aluno com maior média para o menor.
+
+- Esvaziar a lista: Remove todos os alunos cadastrados, limpando a lista.
 
 ## 🛠️ Tecnologias Utilizadas
 
